@@ -2,8 +2,7 @@
 
 ## 主要域名
 
-- **最新域名（大陆可访问）：[https://tools.miku.ac](https://tools.miku.ac)**
-- 主域名：[https://miku.tools](https://miku.tools)
+- **最新域名（大陆可访问）：[https://xxxxxxx520.com](https://xxxxxxx520.com)**
 
 ## 备用域名
-- 备用域名A：[https://okmiku.com](https://okmiku.com)
+- 备用域名A：[https://xxxxxxx520.com](https://xxxxxxx520.com)
